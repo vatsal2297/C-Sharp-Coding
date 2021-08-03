@@ -1,0 +1,13 @@
+C:\Users\vns27\source\repos\BeeBreedingProblem\BeeBreedingProblem\bin\Debug\netcoreapp3.1\BeeBreedingProblem.exe
+C:\Users\vns27\source\repos\BeeBreedingProblem\BeeBreedingProblem\bin\Debug\netcoreapp3.1\BeeBreedingProblem.deps.json
+C:\Users\vns27\source\repos\BeeBreedingProblem\BeeBreedingProblem\bin\Debug\netcoreapp3.1\BeeBreedingProblem.runtimeconfig.json
+C:\Users\vns27\source\repos\BeeBreedingProblem\BeeBreedingProblem\bin\Debug\netcoreapp3.1\BeeBreedingProblem.runtimeconfig.dev.json
+C:\Users\vns27\source\repos\BeeBreedingProblem\BeeBreedingProblem\bin\Debug\netcoreapp3.1\BeeBreedingProblem.dll
+C:\Users\vns27\source\repos\BeeBreedingProblem\BeeBreedingProblem\bin\Debug\netcoreapp3.1\BeeBreedingProblem.pdb
+C:\Users\vns27\source\repos\BeeBreedingProblem\BeeBreedingProblem\obj\Debug\netcoreapp3.1\BeeBreedingProblem.csprojAssemblyReference.cache
+C:\Users\vns27\source\repos\BeeBreedingProblem\BeeBreedingProblem\obj\Debug\netcoreapp3.1\BeeBreedingProblem.AssemblyInfoInputs.cache
+C:\Users\vns27\source\repos\BeeBreedingProblem\BeeBreedingProblem\obj\Debug\netcoreapp3.1\BeeBreedingProblem.AssemblyInfo.cs
+C:\Users\vns27\source\repos\BeeBreedingProblem\BeeBreedingProblem\obj\Debug\netcoreapp3.1\BeeBreedingProblem.csproj.CoreCompileInputs.cache
+C:\Users\vns27\source\repos\BeeBreedingProblem\BeeBreedingProblem\obj\Debug\netcoreapp3.1\BeeBreedingProblem.dll
+C:\Users\vns27\source\repos\BeeBreedingProblem\BeeBreedingProblem\obj\Debug\netcoreapp3.1\BeeBreedingProblem.pdb
+C:\Users\vns27\source\repos\BeeBreedingProblem\BeeBreedingProblem\obj\Debug\netcoreapp3.1\BeeBreedingProblem.genruntimeconfig.cache
